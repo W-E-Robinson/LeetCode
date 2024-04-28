@@ -7,7 +7,7 @@ I have no set rules for deciding subsequent solutions to the problem, it could b
 - Attempting to improve on runtime and/or memory performance. Inspiration could be taken from other solutions.
 - Trying to write a solution that is more readable/testable/etc.
 - Trying a solution in a different language.
-- A combination of the above reasons or any number of other reasons.
+- A combination of the above reasons or any other reason.
 
 ```mermaid
 flowchart TD
